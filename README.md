@@ -56,8 +56,13 @@ This project intentionally prioritizes:
 
 ### Home Screen
 
-![Home Screen](https://github.com/mahendra022/Quran-Audio-Player/blob/main/assets/screenshots/app-screenshot.png)
-
+<p align="center">
+  <img
+    src="https://github.com/mahendra022/Quran-Audio-Player/blob/main/assets/screenshots/app-screenshot.png"
+    width="300"
+    alt="Home Screen"
+  />
+</p>
 
 ## Demo Video
 
