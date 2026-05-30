@@ -1,0 +1,22 @@
+name: quran_audio_player
+description: Flutter technical test
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get: ^4.6.6
+  dio: ^5.7.0
+  just_audio: ^0.9.39
+  mocktail: ^1.0.4
+  integration_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
