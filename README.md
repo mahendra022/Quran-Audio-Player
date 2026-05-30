@@ -52,7 +52,15 @@ This project intentionally prioritizes:
 - readability
 - scalable architecture
 
+## Screenshots
+
+### Home Screen
+
+![Home Screen](assets/screenshots/home_screen.png)
+
 
 ## Demo Video
-A complete application demo is available in:
-[Here](https://github/mahendra022/Quran-Audio-Player/assets/screenshots/app-demo.mp4)
+
+A complete application demo is included in:
+
+`assets/screenshots/app-demo.mov`
