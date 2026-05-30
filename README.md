@@ -55,4 +55,4 @@ This project intentionally prioritizes:
 
 ## Demo Video
 A complete application demo is available in:
-[Here](https://github/mahendra022/quran-player/assets/recordings/app_demo.mp4)
+[Here](https://github/mahendra022/Quran-Audio-Player/assets/recordings/app_demo.mp4)
